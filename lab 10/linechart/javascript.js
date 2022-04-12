@@ -9,7 +9,7 @@ var myChart = new Chart(ctx, {
             data: [32,	32,	31.99,	32.06,	32.4,	32.75,	51.78,	63.65,	71.44, 76.33],
             fill: false,
             borderColor: 'rgba(0, 156, 59)',
-            backgroundColor: 'rgba(0, 156, 59, 0.3)',
+            backgroundColor: 'rgba(0, 156, 59, 0.1)',
             tension: 0.1},
         {
             label: 'China',
