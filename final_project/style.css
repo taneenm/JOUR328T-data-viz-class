@@ -9,11 +9,22 @@ body {
   margin: 20px 0 10px 0;
   width: 100%;
   min-width: 1250px;
-  font-size: 1em;
+  font-size: 1.25em;
   text-transform: uppercase;
   background-color: #94346e;
   color: #94346e;
 }
+
+.smallsection {
+  margin: 20px 0 10px 0;
+  width: 100%;
+  min-width: 1250px;
+  font-size: 1.25em;
+  text-transform: uppercase;
+  background-color: #94346e;
+  color: #94346e;
+}
+
 
 #content {
   display: center;
@@ -22,18 +33,18 @@ body {
   width: 900px;
   min-width: 500px;
   object-fit: fill;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   font-size: 48px;
   font-style: bold;
 }
 
 #byline {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
   color: black;
 }
@@ -48,7 +59,7 @@ figure {
 }
 
 h2 {
-  font-family: 'Poppins', serif;
+  font-family: 'Source Sans Pro', serif;
   background-color: #79ba9d;
   font-size: 36px;
   color: black;
